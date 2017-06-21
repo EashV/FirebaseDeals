@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/priyanshi/.android/build-cache/ca9841c8824ecd899b29144c4807a07ede75cca7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9024225796c3f11342ef6a4a99439f2f988bafb0">
+        <dex dex="/home/priyanshi/showcase/FirebaseApplication/app/build/intermediates/pre-dexed/debug/classes_91981a0d7bba69166231e878fcd66bdb0a4227bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/priyanshi/.android/build-cache/ddf3c773b89004c8e704f8473c4190f5c393164a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1172091167cff5873cbcccad4c0e08ec9e3240de">
+        <dex dex="/home/priyanshi/showcase/FirebaseApplication/app/build/intermediates/pre-dexed/debug/classes_d9e8e2b387dccc072f4f916613929fc3066e7392.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/priyanshi/.android/build-cache/50a9ecb0b347179a48c232a14ca55cbafe4828cd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="/home/priyanshi/showcase/FirebaseApplication/app/build/intermediates/pre-dexed/debug/classes_badec6f8bed7922233b6811ec0197e9ab52566d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/priyanshi/.android/build-cache/f38d4d1bc8fdb7ce96e8c5d87352cdbe55a8e6b8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="/home/priyanshi/showcase/FirebaseApplication/app/build/intermediates/pre-dexed/debug/classes_f3be6bd70e97885109aed4c901bf7a2a1749ffca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/priyanshi/.android/build-cache/ac292cc8a8fa5b9e6e6db726cd9f3d58c4b3904d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9b775d7b643397da3ab57e62ae8abb74a9cc9a83">
+        <dex dex="/home/priyanshi/showcase/FirebaseApplication/app/build/intermediates/pre-dexed/debug/classes_30fcc77f2b66aaddbd03d7ec6e327a8a64ce3b41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/priyanshi/.android/build-cache/36242147a5bc2410ee62776acff9107f554619a9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="/home/priyanshi/showcase/FirebaseApplication/app/build/intermediates/pre-dexed/debug/classes_0b9cc7b0442d0913fd336cf624419505a3c11fbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/priyanshi/.android/build-cache/fe697b032d74affae7bbb0a0416824e22a6a56d4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4d7184a651c5975b49928ce7c76175d491ee7a5e">
+        <dex dex="/home/priyanshi/showcase/FirebaseApplication/app/build/intermediates/pre-dexed/debug/classes_86da373c399ea76e78bf933fa33c47eab6207388.jar" />
+    </item>
+
+</items>
